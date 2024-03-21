@@ -545,12 +545,12 @@ button {
 /** software section **/
 
 .software {
-     background-color: #02a24b;
+     background-color: transparent;
      margin-top: 90px;
 }
 
 .software .titlepage h2 {
-     color: #fff;
+     color: #02a24b;
 }
 
 .software .software_img figure {
@@ -568,12 +568,12 @@ button {
 }
 
 .software .titlepage p {
-     color: #fff;
+     color: #02a24b;
      font-size: 17px;
      line-height: 35px;
      font-weight: 400;
      margin-top: 30px;
-     border: #fff solid 1px;
+     border: #02a24b solid 1px;
      padding: 40px 40px;
 }
 
